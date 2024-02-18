@@ -1,5 +1,5 @@
 from pushbullet import Pushbullet as pb
-API_KEY="o.U9sBZ93Nge27jhquIL3mPensec5DS2Zk"
+API_KEY=""
 
 file = "send.txt"
 
